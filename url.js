@@ -1,5 +1,3 @@
 (function() {
-  if (true) {
-    
-  }
+  console.log('available url test!');
 })()
